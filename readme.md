@@ -21,6 +21,5 @@ Limitations
 
 --------
 
-Tableau link: public.tableau.com/app/profile/abbe.atthabrizi/viz/JCDSCapstoneProjectDataAnalysis-AbbeAtthabrizi/NYCsCultureTowardsTaxiRides?publish=yes
 
 For questions and feedback, contact me at: atthabrizi@gmail.com
